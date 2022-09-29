@@ -49,4 +49,4 @@ services:
     volumes:
       - ~/postgres/data:/data/db
     ports:
-      - '5435:5434'
+      - '5433:5432'
